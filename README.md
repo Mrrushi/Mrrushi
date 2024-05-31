@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mrrushi
-- 👀 I’m interested in ... Hacking
+- 👀 I’m interested in ... Hacking and data science
 - 🌱 I’m currently learning to code
 - 💞️ I’m looking to collaborate on cyber security
 - 📫 How to reach me - via email
